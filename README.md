@@ -14,7 +14,11 @@
 ## Ressources
 
 *[Documentation](https://tidalcycles.org/docs/reference/cycles)
+
 *[Tutorial by Alex McLean](https://tidalcycles.org/docs/patternlib/tutorials/workshop)
+
 *[Kindohm YT](https://www.youtube.com/@kindohm)
+
 *[Lil Data YT](https://www.youtube.com/@LilData)
+
 *[Heavy Lifting](https://heavy-lifting.org/links)
