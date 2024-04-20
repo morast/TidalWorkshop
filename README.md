@@ -16,6 +16,9 @@
 [Documentation](https://tidalcycles.org/docs/reference/cycles)
 
 [Tutorial by Alex McLean](https://tidalcycles.org/docs/patternlib/tutorials/workshop)
+[Workshop Github Files](https://github.com/tidalcycles/tidal-workshop/blob/master/workshop.tidal)
+
+[Website Alex McLean](https://slab.org/)
 
 [Kindohm YT](https://www.youtube.com/@kindohm)
 
